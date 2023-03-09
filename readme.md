@@ -24,6 +24,6 @@ Este administrador ha sido creado con la finalidad de tener una base de datos de
 - Tailwind
 - Vite
 
-![Login](https://raw.githubusercontent.com/estefmr/dejatuhuella/master/frontend/public/img/dogs_hero.jpg)
+![Login](https://raw.githubusercontent.com/estefmr/dejatuhuella/master/frontend/public/img/Deja_tu_huella.png)
 
 
