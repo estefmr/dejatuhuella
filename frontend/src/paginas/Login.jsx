@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom'
 
-const LOgin = () => {
+const Login = () => {
     return ( 
         <>
            
@@ -37,7 +37,7 @@ const LOgin = () => {
                 </form>
                 <nav className='mt-10 lg:flex lg:justify-between'>
                     <Link className='block text-center my-5 text-white' to="/registrar">¿No tienes una cuenta? Registrate</Link>
-                    <Link className='block text-center my-5 text-white' to="/olvide-password">Olvide mi password</Link>
+                    <Link className='block text-center my-5 text-white' to="/olvidePassword">Olvide mi password</Link>
                 </nav>
             </div>
            
@@ -45,4 +45,4 @@ const LOgin = () => {
      );
 }
  
-export default LOgin;
+export default Login;
