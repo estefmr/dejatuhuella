@@ -11,6 +11,7 @@ Este administrador ha sido creado con la finalidad de tener una base de datos de
 - Postman
 
 - JWT
+- Test APIS con Postman
 - Flujo de confirmación y autenticación del usuario
 
 **BD**
@@ -21,5 +22,8 @@ Este administrador ha sido creado con la finalidad de tener una base de datos de
 
 - React js
 - Tailwind
+- Vite
+
+![Login](https://raw.githubusercontent.com/estefmr/dejatuhuella/master/frontend/public/img/dogs_hero.jpg)
 
 
