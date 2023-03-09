@@ -13,7 +13,7 @@ Este administrador ha sido creado con la finalidad de tener una base de datos de
 - JWT
 - Flujo de confirmación y autenticación del usuario
 
-**BD*
+**BD**
 
 - MongoDB / compass
 
